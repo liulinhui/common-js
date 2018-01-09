@@ -1,1 +1,1 @@
-window.FROG_JS = FROG_JS = require('./index.js');
+window.FrogJS = FrogJS = require('./index.js');
