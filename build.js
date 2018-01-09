@@ -1,0 +1,1 @@
+window.COMMON_JS = COMMON_JS = require('./index.js');
