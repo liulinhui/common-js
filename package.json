@@ -1,12 +1,12 @@
 {
-  "name": "common-js",
+  "name": "frog-js",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "build": "browserify build.js -o browserify-common.js && uglifyjs browserify-common.js > browserify-common-min.js"
+    "build": "browserify build.js -o browserify-frog.js && uglifyjs browserify-frog.js > browserify-frog-min.js"
   },
   "dependencies": {
     "JSONStream": "^1.3.1",

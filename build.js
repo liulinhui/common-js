@@ -1,1 +1,1 @@
-window.COMMON_JS = COMMON_JS = require('./index.js');
+window.FROG_JS = FROG_JS = require('./index.js');
